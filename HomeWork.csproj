@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="4a94268541d7a0ed95a8be5138e8a288.jpg" />
+    <None Remove="eye-flat.png" />
+    <None Remove="galaxy_flat_design_bg.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="4a94268541d7a0ed95a8be5138e8a288.jpg" />
+    <Resource Include="eye-flat.png" />
+    <Resource Include="galaxy_flat_design_bg.jpg" />
+  </ItemGroup>
+
+</Project>

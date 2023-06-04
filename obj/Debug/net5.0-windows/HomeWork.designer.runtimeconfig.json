@@ -1,0 +1,17 @@
+{
+  "runtimeOptions": {
+    "tfm": "net5.0",
+    "framework": {
+      "name": "Microsoft.WindowsDesktop.App",
+      "version": "5.0.0"
+    },
+    "additionalProbingPaths": [
+      "C:\\Users\\PC10\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\PC10\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Nevron Software\\Nevron Open Vision 2022.3\\NugetPackage"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
